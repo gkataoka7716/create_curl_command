@@ -1,0 +1,7 @@
+{
+  "未選択": "",
+  "application/json": "application/json",
+  "application/x-www-form-urlencoded": "application/x-www-form-urlencoded",
+  "multipart/form-data": "multipart/form-data",
+  "text/plain": "text/plain"
+}
